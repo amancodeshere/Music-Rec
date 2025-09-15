@@ -1,6 +1,8 @@
 # Content‑Based Music Recommendation
 
-Aman Sharma
+@author: Aman Sharma (amancodeshere@github)
+
+
 _Project type:_ Coursework project and research notebook  
 _Goal:_ Build a content‑based music recommender that classifies songs into topical themes and recommends new tracks aligned with user interests.
 
