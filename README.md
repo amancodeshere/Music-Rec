@@ -137,7 +137,7 @@ The recommender uses a **content‑based, topic‑aware** approach:
 - **User 3** is robust to M.  
 - In practice, one can adapt **M per user** using validation on historical clicks, or learn topic‑specific weights.
 
-> _Cold‑start note:_ The approach mitigates item cold‑start for new songs as long as lyrics are available, since ranking is based on content rather than interactions.
+> _Cold‑start note:_ This approach tries mitigates item cold‑start for new songs as long as lyrics are available, since rankings are based directly on content rather than interactions. A full fledge recommender should incorporate both for more versatile recommendations. (potential future work)
 
 ---
 
